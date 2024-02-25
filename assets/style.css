@@ -45,6 +45,7 @@ body {
 }
 
 #about {
+	
 	display: flex;
 	background-color: #F6D2B8;
 	padding-inline: 100px;
@@ -70,11 +71,13 @@ body {
 }
 
 .picture img {
+	
 	width: 100%;
 
 }
 
 #about-me {
+	
 	flex: 2
 }
 
